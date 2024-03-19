@@ -1,5 +1,7 @@
 # React Document Scanner and State DL Selector
 
+# Application is live : https://ocr-nu.vercel.app/
+
 1. ## Introduction
     This application harnesses the power of React and modern web technologies to capture images through a webcam and allows users to select states from a dropdown menu. Developed with scalability and maintainability in mind, it demonstrates the effective use of React hooks, context for state management, and component-based architecture, all bundled efficiently with Vite for an enhanced development experience.
 
